@@ -56,7 +56,14 @@ Comprueban el funcionamiento de las KeyWOrds y de la aplicación Kwic, verifican
  * Se controlan asimismo aquellos casos en los que salte una excepción.
 
 ## Crear contenedor en hub docker y subirlo a Github
-TODO - MODIFICAR ESTE PUNTO UNA VEZ HECHO!!!!!!!!!
+####REPOSITORIO [GITHUB](https://github.com/piterfait/kwicRepo)
+```
+https://github.com/piterfait/kwicRepo.git
+```
+####REPOSITORIO [DOCKERHUB](https://hub.docker.com/r/piterfait/kwic)
+```
+docker pull piterfait/kwic
+```
 
 
 
